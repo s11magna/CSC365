@@ -1,3 +1,6 @@
+-- Samuel Magana
+-- smagan01@calpoly.edu
+
 SELECT * FROM Campuses;
 SELECT 	COUNT(*) FROM Campuses;
 SELECT * FROM CSUFees;

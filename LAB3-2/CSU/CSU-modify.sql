@@ -1,5 +1,5 @@
 -- Samuel Magana
-
+-- smagan01@calpoly.edu
 
 -- Keep the table documenting campus enrollment by discipline for the
 -- The following enrollements

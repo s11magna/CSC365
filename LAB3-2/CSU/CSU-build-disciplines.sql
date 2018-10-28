@@ -1,3 +1,6 @@
+-- Samuel Magana
+-- smagan01@calpoly.edu
+
 INSERT INTO Disciplines(ID, NAME) VALUES (1, 'Agriculture');
 INSERT INTO Disciplines(ID, NAME) VALUES (2, 'Architecture');
 INSERT INTO Disciplines(ID, NAME) VALUES (3, 'Area Studies');

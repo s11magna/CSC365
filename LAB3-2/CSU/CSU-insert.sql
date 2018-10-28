@@ -1,3 +1,6 @@
+-- Samuel Magana
+-- smagan01@calpoly.edu
+
 source CSU-build-Campuses.sql;
 source CSU-build-csu-fees.sql;
 source CSU-build-degrees.sql;

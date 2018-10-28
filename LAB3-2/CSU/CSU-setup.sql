@@ -1,3 +1,6 @@
+-- Samuel Magana
+-- smagan01@calpoly.edu
+
 CREATE TABLE Campuses(
 	ID INT NOT NULL,
 	CAMPUS VARCHAR(60) NOT NULL, 

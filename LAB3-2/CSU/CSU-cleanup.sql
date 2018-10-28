@@ -1,3 +1,6 @@
+-- Samuel Magana
+-- smagan01@calpoly.edu
+
 DROP TABLE Faculty;
 DROP TABLE Enrollment;
 DROP TABLE disEnroll;
